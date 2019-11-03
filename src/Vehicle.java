@@ -1,4 +1,3 @@
-
 public class Vehicle {
 
     private int regNumber;
